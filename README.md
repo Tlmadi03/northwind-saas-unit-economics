@@ -255,7 +255,7 @@ why G6 and G7 exist separately.
 ## Reproduce
 
 ```bash
-git clone https://github.com/BakdauletBolatA/northwind-saas-unit-economics
+git clone https://github.com/Tlmadi03/northwind-saas-unit-economics
 cd northwind-saas-unit-economics
 pip install -r requirements.txt
 apt-get install -y libreoffice-calc     # G5-G7 recalculate the workbook headlessly
